@@ -15,6 +15,7 @@ public class HelloApplication extends Application {
         primaryStage.setTitle("Student Manager");
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.show();
+        System.out.println("ana are mere");
     }
 
 
